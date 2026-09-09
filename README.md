@@ -2,6 +2,10 @@
 
 无岐课签助手 Android 安装包发布页。
 
+## 应用介绍
+
+无岐课签助手是一款 Android 端课程与签到信息辅助工具，帮助用户集中查看课程、签到活动及已登录账号的相关信息，并提供常用签到操作入口和多账号管理功能。
+
 ## 下载
 
 当前版本：[无岐课签助手 1.0](https://github.com/miuixiaotu/wuqi-keqian-assistant/releases/latest)
