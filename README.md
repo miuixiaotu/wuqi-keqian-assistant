@@ -25,10 +25,6 @@
 
 当前版本：[无岐课签助手 1.0](https://github.com/miuixiaotu/wuqi-keqian-assistant/releases/latest)
 
-## 下载体验
-
-本应用为 Android 客户端，没有网页演示版。请前往 [Releases](https://github.com/miuixiaotu/wuqi-keqian-assistant/releases/latest) 下载最新安装包。
-
 ## 快速开始
 
 下载 APK 后，按下方“安装说明”完成安装即可使用。
