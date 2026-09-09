@@ -23,7 +23,7 @@
 
 ## 下载
 
-当前版本：[无岐课签助手 1.0](https://github.com/miuixiaotu/wuqi-keqian-assistant/releases/latest)
+当前版本：[无岐课签助手 1.1](https://github.com/miuixiaotu/wuqi-keqian-assistant/releases/latest)
 
 ## 快速开始
 
